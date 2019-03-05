@@ -27,4 +27,9 @@
 #define DNS_REFUSSED	5
 
 #define MAX_ATTEMPTS	3
-#define MAX_DNS_SIZE 512
+#define MAX_DNS_SIZE	512
+#define FAIL_CODE		-1
+#define TIMEOUT_CODE	-2
+#define TRUNCATED_OFFSET	-3
+#define TRUNCATED_NAME	-4
+#define JUMP_LOOP		-5
