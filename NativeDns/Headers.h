@@ -1,3 +1,8 @@
+/*
+ * CPSC 612 Spring 2019
+ * HW2
+ * by Chengyi Min
+ */
 #pragma once
 #include <Windows.h>
 

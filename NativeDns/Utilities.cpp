@@ -1,3 +1,11 @@
+/* functions: makeDNSquestion, make PTR type question, jump read function, recv packets
+	reading single record
+/*
+ * CPSC 612 Spring 2019
+ * HW2
+ * by Chengyi Min
+ */
+
 #include "pch.h"
 #include "Utilities.h"
 

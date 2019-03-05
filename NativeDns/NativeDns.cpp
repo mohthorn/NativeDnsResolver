@@ -1,5 +1,9 @@
-// NativeDns.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/* main function, input check, socket generating and error check*/
+/*
+ * CPSC 612 Spring 2019
+ * HW2
+ * by Chengyi Min
+ */
 
 #include "pch.h"
 
